@@ -233,7 +233,7 @@ a:after {
 }
 
 
-#footwrap t {
+#footwrap t {  font-family:"Microsoft YaHei";
 	font-weight: 700;
 }
 
@@ -250,7 +250,7 @@ a:after {
 	
 }
 
-#c p {
+#c t{font-family: "Microsoft YaHei",Î¢ÈíÑÅºÚ;} #c p {
 	color: white
 }
 
